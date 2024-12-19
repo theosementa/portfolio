@@ -6,5 +6,3 @@ apps/api/dist
 
 apps/web/node_modules
 apps/web/.env
-
-/pgdata

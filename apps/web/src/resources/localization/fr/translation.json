@@ -1,0 +1,46 @@
+{
+  "projects": {
+    "cashflow": {
+      "subtitle": "Suivi des dépenses",
+      "presentation": "CashFlow est une application iOS qui vous aide à gérer vos dépenses et votre argent en général.",
+      "description": "Description détaillée de mon projet.",
+      "date": "Septembre 2023 - Aujourd'hui"
+    },
+    "cyclo": {
+      "subtitle": "Suivi des sorties vélo",
+      "presentation": "Cyclo est une application iOS qui permet de suivre des sorties à vélo enregistrer sur l'Apple Watch.",
+      "description": "Description détaillée de mon projet.",
+      "date": "Juillet 2024 - Aujourd'hui"
+    },
+    "ecoTime": {
+      "subtitle": "Suivi de l'utilisation de l'iPhone",
+      "presentation": "EcoTime est une application iOS qui permet de suivre les temps d'écran de son iPhone.",
+      "description": "Description détaillée de mon projet.",
+      "date": "Juillet 2024 - Aujourd'hui"
+    },
+    "split": {
+      "subtitle": "Dépenses entre amis",
+      "presentation": "Split est une application iOS et Android permettant de partager ses dépenses.",
+      "description": "Description détaillée de mon projet.",
+      "date": "Mai 2024 - Aujourd'hui"
+    },
+    "tyradex": {
+      "subtitle": "Pokédex",
+      "presentation": "Tyradex est une application iOS, iPadOS et VisionOS permettant d'accéder au pokédex depuis TyradexKit.",
+      "description": "Description détaillée de mon projet.",
+      "date": "Juillet 2024 - Aujourd'hui"
+    },
+    "tyradexKit": {
+      "subtitle": "Pokédex",
+      "presentation": "TyradexKit est une librairie qui exploite une api française pour utiliser le pokédex.",
+      "description": "Description détaillée de mon projet.",
+      "date": "Juillet 2024 - Aujourd'hui"
+    },
+    "portfolio": {
+      "subtitle": "Présentation de mes compétences",
+      "presentation": "Une présentation de mes projets.",
+      "description": "Description détaillée de mon projet.",
+      "date": "Décembre 2024 - Aujourd'hui"
+    }
+  }
+}
