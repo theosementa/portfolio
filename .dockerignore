@@ -1,10 +1,10 @@
+.dockerignore
 .env
 
 apps/api/node_modules
 apps/api/.env
-apps/api/dist
+apps/api/Dockerfile
 
 apps/web/node_modules
 apps/web/.env
-
-/pgdata
+apps/web/Dockerfile
